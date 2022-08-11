@@ -12,12 +12,4 @@ public class MainTest {
             fail("Sum of 1 and 2 should be 3");
         }
     }
-
-    @Test
-    public void sum2() {
-    }
-
-    @Test
-    public void sum3() {
-    }
 }
