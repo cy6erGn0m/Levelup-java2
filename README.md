@@ -2,4 +2,4 @@
 
 Hello, Level up!
 
-This project demonstrates Maven, Git and GitHub
+This project demonstrates **Maven**, **Git** and **GitHub**
